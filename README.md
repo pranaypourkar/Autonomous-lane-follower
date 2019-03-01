@@ -1,1 +1,1 @@
-Ye padh pehle gaandu
+Requires Python 3.5
